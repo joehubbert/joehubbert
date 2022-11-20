@@ -7,7 +7,7 @@
    - Azure Cosmos DB Developer Speciality
    - Azure Solutions Architect Expert
 - 💞️ I’m looking to collaborate on Azure, Microsoft 365 and Data Platform [](url)
-- 📫 How to reach me: [@joehubbert - Mastodon](https://hachyderm.io/@joehubbert) | [LinkedIn](https://linkedin.com/in/joehubbert)
+- 📫 How to reach me: [@joehubbert - Mastodon](https://hachyderm.io/@joehubbert) | [LinkedIn](https://linkedin.com/in/joehubbert) | [Blog](https://www.hubnet.cloud)
 
 <!---
 joehubbert/joehubbert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
