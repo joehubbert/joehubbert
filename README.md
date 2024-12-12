@@ -6,7 +6,7 @@
    - Windows Server Hybrid Administrator Associate
    - Azure Cosmos DB Developer Speciality
 - 💞️ I’m looking to collaborate on Azure, Microsoft 365 and Data Platform [](url)
-- 📫 How to reach me: [@joehubbert - Mastodon](https://hachyderm.io/@joehubbert) | [LinkedIn](https://linkedin.com/in/joehubbert) | [Blog](https://www.hubnet.cloud)
+- 📫 How to reach me: [@joehubbert.bsky.social - BlueSky](https://bsky.app/profile/joehubbert.bsky.social) | [LinkedIn](https://linkedin.com/in/joehubbert) | [Blog](https://www.hubnet.cloud)
 
 <!---
 joehubbert/joehubbert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
